@@ -1,0 +1,6 @@
+﻿bokeh==2.4.2
+holoviews==1.14.8
+hvplot==0.7.3
+numpy==1.21.5
+pandas==1.4.2
+panel==0.13.0
