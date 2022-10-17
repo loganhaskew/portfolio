@@ -1,5 +1,7 @@
 # Welcome to my Personal Project Repository
 
+## (Check out key detection or the coffee dashboard first. Some other projects are a bit old.)
+
 Here is where I'll store some fun personal projects I'm currently working on or have worked through in the past. 
 
 ### A Bit About Myself
